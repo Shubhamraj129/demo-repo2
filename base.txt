@@ -1,0 +1,11 @@
+this is the first example
+of the write lines //
+  you
+   can
+    write many lines
+     in the write line
+
+
+     lines
+
+lines /n 
