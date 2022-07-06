@@ -14,3 +14,5 @@ d2=di.copy()  ## copy the all data into the d2  if you chANGE INTO d2 not apply 
 print(d2)
 print(di.keys())   ## It pRINTS ALL KEYS IN THE DICTIONARY
 print(di.items())    ## It pRINTS aLL IN THE DICTIONARY
+
+
